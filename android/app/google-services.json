@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "303691086090",
+    "project_id": "socialapp-d1e32",
+    "storage_bucket": "socialapp-d1e32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303691086090:android:75f7c68a852097e738e2f3",
+        "android_client_info": {
+          "package_name": "com.example.instgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303691086090-2vsv2u25mk066t7i262o9ib7r0nd6fin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_c_H0oDH_dKC6-VMSNhZgIIhVVlMou4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303691086090-2vsv2u25mk066t7i262o9ib7r0nd6fin.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "303691086090-g7o3fr8sr202ftecag8fq3jol8qehmhs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.instgram.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303691086090:android:ba65dee1b338f3f738e2f3",
+        "android_client_info": {
+          "package_name": "com.example.newbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303691086090-2vsv2u25mk066t7i262o9ib7r0nd6fin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_c_H0oDH_dKC6-VMSNhZgIIhVVlMou4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303691086090-2vsv2u25mk066t7i262o9ib7r0nd6fin.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "303691086090-g7o3fr8sr202ftecag8fq3jol8qehmhs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.instgram.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303691086090:android:09a9f488f066302538e2f3",
+        "android_client_info": {
+          "package_name": "com.example.notefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303691086090-2vsv2u25mk066t7i262o9ib7r0nd6fin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_c_H0oDH_dKC6-VMSNhZgIIhVVlMou4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303691086090-2vsv2u25mk066t7i262o9ib7r0nd6fin.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "303691086090-g7o3fr8sr202ftecag8fq3jol8qehmhs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.instgram.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303691086090:android:0265288ce89598d138e2f3",
+        "android_client_info": {
+          "package_name": "com.example.sports"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303691086090-2vsv2u25mk066t7i262o9ib7r0nd6fin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_c_H0oDH_dKC6-VMSNhZgIIhVVlMou4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303691086090-2vsv2u25mk066t7i262o9ib7r0nd6fin.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "303691086090-g7o3fr8sr202ftecag8fq3jol8qehmhs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.instgram.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
